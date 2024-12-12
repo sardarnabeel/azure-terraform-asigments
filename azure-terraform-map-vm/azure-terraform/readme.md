@@ -1,0 +1,1 @@
+in this nsg are configured with single rule multple rule both code available
